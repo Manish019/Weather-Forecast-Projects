@@ -27,7 +27,7 @@ humidity, wind speed, and weather conditions with icons.
 
 ![image](https://github.com/user-attachments/assets/dd62eeda-4071-49ac-8396-6c0aa4f73eca)
 
-)
+
 
 💡 Use Case:
 Perfect for anyone wanting quick, up-to-date weather info — useful in travel planning, daily routines, or learning about API integrations.
